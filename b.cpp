@@ -5,5 +5,4 @@ int main(){
     int a=96;
     double c=(n+a)/3;
     cout<<n<<c<<endl;
-    return 0;
 }
